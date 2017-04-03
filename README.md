@@ -1,7 +1,7 @@
 # AGORA VAI
 
 # Template
-Sempre que alterar o template envier pra @3LF no Discord que eu atualizo aqui.
+O BOT usa o template hospedado aqui. Sempre que alterar o template envier pra @3LF no Discord que eu atualizo.
 
 ![Template](https://raw.githubusercontent.com/brunocassol/sandboxandutils/master/template.png)
 
