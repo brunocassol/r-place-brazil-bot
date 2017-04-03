@@ -1,7 +1,7 @@
 # AGORA VAI
 
 # Coisa linda
-![Template](https://raw.githubusercontent.com/brunocassol/sandboxandutils/master/sample.png)
+![Template](https://raw.githubusercontent.com/brunocassol/sandboxandutils/master/demo.png)
 
 # Template
 Sempre que alterar o template envier pra @3LF no Discord que eu atualizo aqui.
