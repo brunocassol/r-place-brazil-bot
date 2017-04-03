@@ -17,3 +17,6 @@ Já o nosso bot roda no Chrome então ele pode pegar a informação dos pixels e
 
 # Exemplo do script em funcionamento
 ![Template](https://raw.githubusercontent.com/brunocassol/sandboxandutils/master/demo.png)
+
+# Código do bot
+Vou liberar o código do bot open source assim que acabar o evento. Pra não correr risco dos gringos pegarem.
