@@ -8,7 +8,7 @@ O BOT usa o template hospedado aqui. Sempre que alterar o template envier pra @3
 # Como usar
 Aperta F12 no Chrome, cola isso no console e manda um ENTER:
 
-$.getScript("https://cdn.shopify.com/s/files/1/1896/6777/t/1/assets/bora.js")
+$.getScript("https://cdn.shopify.com/s/files/1/1896/6777/t/1/assets/bora.js?12342008987641868147")
 
 # Feedback do console
 ![Template](https://raw.githubusercontent.com/brunocassol/sandboxandutils/master/demo.png)
