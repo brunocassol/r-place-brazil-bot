@@ -1,25 +1,26 @@
-# Script dos BR
-O script desenha essa imagem:
+# Bot used by Brazil in /r/place
+
+This was develop in a rush during a weekend while fighting Reddit devs and helping coordinating a campaign on /r/place. Don't judge me.
+
+It downloads this image automatically and draws it:
 
 ![Template](https://raw.githubusercontent.com/brunocassol/sandboxandutils/master/template.png)
 
-Sempre que quiserem que o script desenhe mais coisas, enviar pra @3LF no Discord que eu atualizo.
+# How to use
+Press F12 on Chrome and paste this on console:
 
-# Como usar
-Aperta F12 no Chrome, cola isso no console e manda um ENTER:
+$.getScript("https://rawgit.com/brunocassol/sandboxandutils/master/bot.js")
 
-$.getScript("https://rawgit.com/brunocassol/sandboxandutils/master/bora.js")
+# How is this bot better?
+Differently from other bots, it uses `window.r.place.state` to patrol pixels from the canvas instead of flooding `https://www.reddit.com/api/place/pixel.json?x=&y=`. No flood = no ban.
 
-# Nosso BOT é 100x melhor
-O bot dos caras em nodeJS, Python e caralho a 4 faz muitas requisições pra pegar os pixels.
+# Bonus
+I also made this tool to convert images to javascript template format. Makes it easy to debug.
 
-Já o nosso bot roda no navegador então ele pode pegar a informação dos pixels errados da tela. Resumindo: Nosso bot não vai fazer vc tomar ban. O deles provavelmente vai.
+It also demonstrates how the bot encrypts coordinates inside an image. `test.png` is actually X,Y coordinates encoded in a PNG.
 
-# Exemplo do script em funcionamento
+# Screenshot
 ![Template](https://raw.githubusercontent.com/brunocassol/sandboxandutils/master/demo.png)
 
-# Código do bot
-Vou liberar o código do bot open source assim que acabar o evento. Pra não correr risco dos gringos pegarem.
-
-# A TURMA DO DISCORD É FODA!
-https://discordapp.com/channels/297490056724348928/
+# License
+MIT
