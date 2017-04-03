@@ -1,6 +1,6 @@
 # Bot used by Brazil in /r/place
 
-This was develop in a rush during a weekend while fighting Reddit devs and helping coordinating a campaign on /r/place. Don't judge me.
+This was developed in a rush during a weekend while fighting Reddit devs and helping coordinating a campaign on /r/place. Don't judge me.
 
 It downloads this image automatically and draws it:
 
