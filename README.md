@@ -21,9 +21,11 @@ I also made this tool to convert images to javascript template format. It helps 
 
 It also demonstrates how the bot encrypts coordinates inside an image. `test.png` is actually X,Y coordinates encoded in a PNG.
 
-# Screenshots
+# Screenshot: Bot working
 
 ![Bot working](https://raw.githubusercontent.com/brunocassol/sandboxandutils/master/demo.png)
+
+# Screenshot: Converter tool
 
 ![Converter tool](https://raw.githubusercontent.com/brunocassol/sandboxandutils/master/converter.png)
 
