@@ -1,4 +1,4 @@
-# BOT dos BR
+# Script dos BR
 O script desenha essa imagem:
 
 ![Template](https://raw.githubusercontent.com/brunocassol/sandboxandutils/master/template.png)
