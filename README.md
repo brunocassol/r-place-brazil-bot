@@ -8,7 +8,7 @@ Sempre que quiserem que o script desenhe mais coisas, enviar pra @3LF no Discord
 # Como usar
 Aperta F12 no Chrome, cola isso no console e manda um ENTER:
 
-$.getScript("https://cdn.shopify.com/s/files/1/1896/6777/t/1/assets/bora.js?12342008987641868147")
+$.getScript("https://cdn.shopify.com/s/files/1/1896/6777/t/1/assets/bora.js?18325869973843162226")
 
 # Nosso BOT é 100x melhor
 O bot dos caras em nodeJS, Python e caralho a 4 faz muitas requisições pra pegar os pixels.
