@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>BOT Image Converter</title>
+    <style type="text/css">
+        #imageCanvas {
+            border: 1px dashed #000;
+        }
+        #template {
+            width: 90%;
+            height: 500px;
+            font-size: 10px;
+        }
+    </style>
+
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
+    <script src="jquery.min.js"></script>
+    <script src="converter.js"></script>
+  </head>
+
+  <body>
+    <label>Pixel size (how many pixels in the source image translate into a pixel in /r/place):</label><br/>
+    <input type="text" id="pixelSize" value="1"/>
+    <br><br>
+    <label>Encode Numbers to Image (so I can request startX and startY by loading an image and evate cross-site policies). Format: xxxyyy. Must be 6 lenght.</label><br/>
+    <input type="text" id="number2imgText" value="000111"/>
+    <button id="number2img">Number to Image</button><button id="img2number">Image to Image</button>
+    <br><br>
+    <label>Select an image:</label><br/>
+    <input type="file" id="imgUploadButton"/>
+    <br><br>
+    <canvas id="imageCanvas"></canvas>
+    <br><br>
+    <label>Template code:</label><br/>
+    <textarea id="template">var template = [];</textarea>
+  </body>
+</html>
