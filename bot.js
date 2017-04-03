@@ -1,7 +1,7 @@
 (function() {
 
 // Copyright Bruno Cassol <brunocassol@gmail.com>. All rights reserved.
-// This was develop in a rush during a weekend while fighting Reddit devs and helping coordinating a campaign on /r/place. Don't judge me.
+// This was developed in a rush during a weekend while fighting Reddit devs and helping coordinating a campaign on /r/place. Don't judge me.
 // License  MIT
 
 ///////////////////////////////////////////////////
