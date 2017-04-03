@@ -11,7 +11,7 @@ Press F12 on Chrome and paste this on console:
 
 $.getScript("https://rawgit.com/brunocassol/sandboxandutils/master/bot.js")
 
-# How is this bot better?
+# Better than other bots?
 Differently from other bots, it uses `window.r.place.state` to patrol pixels from the canvas instead of flooding `https://www.reddit.com/api/place/pixel.json?x=&y=`. No flood = no ban.
 
 # Bonus
