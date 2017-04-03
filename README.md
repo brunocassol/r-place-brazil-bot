@@ -4,7 +4,7 @@ This was develop in a rush during a weekend while fighting Reddit devs and helpi
 
 It downloads this image automatically and draws it:
 
-![Template](https://raw.githubusercontent.com/brunocassol/sandboxandutils/master/template.png)
+![Template](https://raw.githubusercontent.com/brunocassol/sandboxandutils/master/image_rendered.png)
 
 # How to use
 Press F12 on Chrome and paste this on console:
