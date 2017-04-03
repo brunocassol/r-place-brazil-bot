@@ -23,7 +23,9 @@ It also demonstrates how the bot encrypts coordinates inside an image. `test.png
 
 # Screenshots
 
-![Template](https://raw.githubusercontent.com/brunocassol/sandboxandutils/master/demo.png)
+![Bot working](https://raw.githubusercontent.com/brunocassol/sandboxandutils/master/demo.png)
+
+![Converter tool](https://raw.githubusercontent.com/brunocassol/sandboxandutils/master/coonverter.png)
 
 # License
 MIT
