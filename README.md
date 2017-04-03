@@ -15,11 +15,14 @@ $.getScript("https://rawgit.com/brunocassol/sandboxandutils/master/bot.js")
 Differently from other bots, it uses `window.r.place.state` to patrol pixels from the canvas instead of flooding `https://www.reddit.com/api/place/pixel.json?x=&y=`. No flood = no ban.
 
 # Bonus
-I also made this tool to convert images to javascript template format. Makes it easy to debug.
+`converter.js` is an image to template converter.
+
+I also made this tool to convert images to javascript template format. It helps debugging and has a secret feature: encoding numbers to an image.
 
 It also demonstrates how the bot encrypts coordinates inside an image. `test.png` is actually X,Y coordinates encoded in a PNG.
 
-# Screenshot
+# Screenshots
+
 ![Template](https://raw.githubusercontent.com/brunocassol/sandboxandutils/master/demo.png)
 
 # License
