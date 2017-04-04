@@ -7,6 +7,8 @@ It downloads this image automatically and draws it:
 ![Template](https://raw.githubusercontent.com/brunocassol/sandboxandutils/master/image_rendered.png)
 
 # How to use
+**Note**: Reddit's event is over. This no longer works.
+
 Press F12 on Chrome and paste this on console:
 
 $.getScript("https://rawgit.com/brunocassol/sandboxandutils/master/bot.js")
