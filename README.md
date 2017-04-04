@@ -1,4 +1,4 @@
-# Bot used by Brazil in /r/place
+# Brazil's bot in /r/place
 
 This was developed in a rush during a weekend while evading Reddit devs and helping coordinating a campaign on /r/place. Don't judge me.
 
