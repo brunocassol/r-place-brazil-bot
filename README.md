@@ -11,7 +11,7 @@ It downloads this image automatically and draws it:
 
 Press F12 on Chrome and paste this on console:
 
-$.getScript("https://rawgit.com/brunocassol/sandboxandutils/master/bot.js")
+$.getScript("https://rawgit.com/brunocassol/r-place-brazil-bot/master/bot.js")
 
 # Bonus
 `converter.html` is an image to template converter. It converts images to javascript template format.
