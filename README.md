@@ -1,10 +1,12 @@
 # Brazil's bot in /r/place
 
+![Final image](final_r_place.png?raw=true "Final image")
+
 This was developed in a rush during a weekend while evading Reddit devs and helping coordinating a campaign on https://www.reddit.com/r/place/. Don't judge me.
 
 It downloads this image automatically and draws it:
 
-![Template](https://raw.githubusercontent.com/brunocassol/sandboxandutils/master/image_rendered.png)
+![Template](image_rendered.png?raw=true "Template")
 
 # How to use
 **Note**: Reddit's event is over. This no longer works.
@@ -20,11 +22,11 @@ It also demonstrates how the bot encrypts coordinates inside an image. `test.png
 
 # Screenshot: bot working
 
-![Bot working](https://raw.githubusercontent.com/brunocassol/sandboxandutils/master/demo.png)
+![Bot working](demo.png?raw=true "Bot working")
 
 # Screenshot - converter tool
 
-![Converter tool](https://raw.githubusercontent.com/brunocassol/sandboxandutils/master/converter.png)
+![Converter tool](converter.png?raw=true "Converter tool")
 
 # License
 MIT
